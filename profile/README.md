@@ -22,4 +22,4 @@ Platform and SRE teams running production workloads on Azure with several AKS cl
 
 Active build. Engineering, infrastructure, and the product surface are being shipped through a sequence of small, audited slices. The product specification, founder manual, and architectural blueprint are maintained as living documents rather than one-off deliverables — they evolve as pilots inform the design. Design-partner conversations are open for Azure-first teams that recognise the problem from their own incident history.
 
-Reach out at [amir@niftrox.com](mailto:amir@niftrox.com) for pilots, partnerships, or hiring conversations.
+Reach out at [amir@niftrox.com](mailto:amir@niftrox.com) for pilot or partnership conversations.
